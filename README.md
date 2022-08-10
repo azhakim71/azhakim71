@@ -23,7 +23,7 @@ I am a Digital Marketer with a huge love for web development.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhakim/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/azhakim03)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://twitter.com/azhakim03)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/azhakim03)
 
 <!---
 azhakim71/azhakim71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
